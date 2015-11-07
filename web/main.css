@@ -6,6 +6,14 @@ body {
   line-height: 1.2em;
   margin: 15px;
 }
+span{
+      word-wrap:break-word;
+}
+div#userName{
+  font-size: 12px;
+  word-wrap:break-word;
+
+}
 
 h1, p {
   color: #333;
